@@ -1,9 +1,10 @@
-### Hi there 👋
+## Hi there 👋
+
+I'am Eduardo, a data architect/data engineer with 10+ years of experience in Data Engineering. My passion for this field is to create 🏗️ products that people and developers will love.
 
 <!--
 **egposadas/egposadas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
